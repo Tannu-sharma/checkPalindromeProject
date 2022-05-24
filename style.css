@@ -1,0 +1,47 @@
+body {
+    background-image: url("bgImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+div {
+    margin: 70px;
+}
+
+label {
+    margin: 30px;
+    font-size: 25px;
+    color: #ffff;
+}
+
+#inputBox {
+    width: 500px;
+    height: 10px;
+    padding: 15px 0px;
+    border-color: black;
+    border-radius: 10px;
+
+
+}
+
+button {
+    width: 300px;
+    height: 70px;
+    background-color: white;
+    color: rgb(196, 54, 184);
+    padding: 20px;
+    font-size: 27px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: rgb(108, 208, 238);
+    text-align: center;
+    margin: 20px 50px 20px 340px;
+}
+
+
